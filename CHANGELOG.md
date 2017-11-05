@@ -6,6 +6,28 @@ This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MINOR" updates correspond to changing courses without changing the topics
 - "PATCH" updates correspond to aesthetic and non-essential additions/removals or changing order of classes for better progression
 
+## [8.0.0] 2017-11-01
+### Added
+- extras/readings: "The System Design Primer"
+- extras/readings: "Category Theory for Programmers: The Preface"
+- extras/readings: "Programming Languages: Application and Interpretation"
+- extras/readings: "Programming and Programming Languages"
+- CONTRIBUTING: "Learning Git" section to the contributor guidelines page
+- Core Math: Added "Essence of Linear Algebra" as pre-requisite to "Linear Algebra: Foundations to Frontiers"
+
+### Updated
+- Moved "Introduction to Mathematical Thinking" to extras/courses
+- Moved "Hack the Kernel" (ops-class) from Advanced Systems to Core Systems
+- Core Systems: "Operating Systems: Three Easy Pieces" is no longer required, but is recommended as companion text to "Hack the Kernel"
+- Core Theory: Replaced Coursera with Lagunita as the host for Stanford Algorithms, since Coursera uses dark patterns to trick users into paying
+
+## [7.2.2] 2017-07-02
+### Added
+- "Haskell Programming from First Principles" book as a paid alternative to learn Haskell
+- "Think Python" to extras/readings
+- FAQ entries and links under relevant courses
+- "Category Theory: A Gentle Introduction" to extras/readings
+
 ## [7.2.1] 2017-05-14
 ### Updated
 - Networking course should take 8 weeks to complete
@@ -233,7 +255,7 @@ Due to Coursera's platform changes, we had the following updates:
 - **Cryptography**:
 	- Applied Cryptography
 
-**ps**: These removed courses are now in the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
+**ps**: These removed courses are now in the [extras](https://github.com/ossu/computer-science/tree/master/extras) section.
 
 ## [1.3.12] 2016-03-17
 ### Added
