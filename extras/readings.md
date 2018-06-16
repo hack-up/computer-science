@@ -28,8 +28,10 @@ Name | Author(s)
 
 Name | Author(s)
 :-- | :--:
-[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson 
+[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) | Silvanus P. Thompson
+[Ximera](https://ximera.osu.edu/): Interactive Calculus Textbooks | [Ximera team](https://ximera.osu.edu/about/team)
 [Discrete Mathematics with Applications (4th Edition)](http://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328/) | Susanna S. Epp
+[Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi/) | Oscar Levin
 [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
 [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) |Charles M. Grinstead, J. Laurie Snell
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) | Gilbert Strang
@@ -45,6 +47,7 @@ Name | Author(s)
 [Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X) | Andrew Tanenbaum
 [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/) | Various
 [System Design: Design large-scale systems](https://github.com/donnemartin/system-design-primer) | Various
+
 ## Theory
 
 Name | Author(s)
@@ -54,6 +57,7 @@ Name | Author(s)
 [The Algorithm Design Manual](https://www.amazon.com/gp/product/1848000693) | Steven Skiena
 [Category Theory: A Gentle Introduction](http://www.logicmatters.net/resources/pdfs/GentleIntro.pdf) | Peter Smith
 [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) | Bartosz Milewski
+[An Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) | Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze
 
 ## Applications
 
